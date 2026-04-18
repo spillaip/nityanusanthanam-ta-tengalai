@@ -27,51 +27,6 @@ An elegant, mobile-responsive web application built with **Streamlit** to facili
 * **Styling:** Custom CSS injection for linear gradients, glassmorphism effects, and responsive layout containers.
 
 ---
-
-## 📁 Project Structure
-
-```text
-├── app.py              # Main Streamlit application
-├── assets/             # Images and branding icons
-├── pasurams/           # Source text files (.txt) for each section
-└── requirements.txt    # Project dependencies
-```
-
-## 🚀 Getting Started
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/nithyanusandhanam.git
-    cd nithyanusandhanam
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the app:**
-    ```bash
-    streamlit run app.py
-    ```
-
----
-
-## 📝 Data Format
-The application uses a custom tag-based parsing system to render content beautifully. Source files in the `/pasurams` folder follow this structure:
-
-```text
-<title>Section Title</title>
-[taniyan]
-<heading>Author Name</heading>
-Verse lines go here...
----
-[pasuram]
-Verse lines go here...
-```
-
----
-
 ## ❤️ Contribution & Effort
 This project is an effort to keep our tradition accessible in the digital age. 
 
